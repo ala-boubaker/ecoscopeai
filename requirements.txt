@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+scikit-learn
+prophet
+openpyxl
+xlsxwriter
+matplotlib
+plotly
+pytesseract
+opencv-python
+pdfplumber
+spacy
+nltk
+joblib
+pyngrok
