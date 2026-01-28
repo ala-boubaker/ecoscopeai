@@ -1,0 +1,17 @@
+type,key,ef_value,unit,source
+spend,Food,1.25,kgCO2e_per_GBP,DEFRA2023
+spend,Steel,2.1,kgCO2e_per_GBP,DEFRA2023
+spend,Textiles,1.6,kgCO2e_per_GBP,DEFRA2023
+transport,air,0.6,kgCO2e_per_tkm,DEFRA2023
+transport,truck,0.12,kgCO2e_per_tkm,DEFRA2023
+transport,rail,0.03,kgCO2e_per_tkm,DEFRA2023
+transport,sea,0.01,kgCO2e_per_tkm,DEFRA2023
+waste,landfill,0.45,kgCO2e_per_kg,DEFRA2023
+travel,flight_shorthaul,0.158,kgCO2e_per_pkm,DEFRA2023
+travel,hotel_night,15.0,kgCO2e_per_night,DEFRA2023
+commute,car,0.18,kgCO2e_per_pkm,DEFRA2023
+energy,electricity,0.4,kgCO2e_per_kwh,DEFRA2023
+energy,electricity_de,0.35,kgCO2e_per_kwh,DEFRA2023
+energy,steam,0.2,kgCO2e_per_kwh,DEFRA2023
+energy,chilled_water,0.12,kgCO2e_per_kwh,DEFRA2023
+cbam_product,7208,2.0,tCO2e_per_t,Demo
